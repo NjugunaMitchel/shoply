@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "shoply"
+    }
+  },
+  "defaultProject": "shoply",
+  "cli": {
+    "analytics": false
+  }
 }
